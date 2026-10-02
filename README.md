@@ -34,5 +34,5 @@
 
 ### 📫 Contacto
 
-- **LinkedIn:** [Nacho Pérez-Rubín](www.linkedin.com/in/ignacio-pérez-rubín-torres-43b966328)
+- **LinkedIn:** [Nacho Pérez-Rubín](https://www.linkedin.com/in/ignacio-p%C3%A9rez-rub%C3%ADn-torres-43b966328/?isSelfProfile=true8)
 - **Email:** nachoprt@gmail.com
